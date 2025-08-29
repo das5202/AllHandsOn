@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Pratice Material\\Practice hands\\phase 1\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9624C18B-8BAD-49E0-B26F-B8D3EEFD4E5F}|Day 5\\Day 5.csproj|d:\\desktop\\pratice material\\practice hands\\phase 1\\day5\\day 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624C18B-8BAD-49E0-B26F-B8D3EEFD4E5F}|Day 5\\Day 5.csproj|solutionrelative:day 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Pratice Material\\Practice hands\\phase 1\\Day5\\Day 5\\Program.cs",
+              "RelativeDocumentMoniker": "Day 5\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Pratice Material\\Practice hands\\phase 1\\Day5\\Day 5\\Program.cs",
+              "RelativeToolTip": "Day 5\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:57:34.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
