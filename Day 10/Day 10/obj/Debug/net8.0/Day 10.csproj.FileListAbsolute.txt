@@ -1,0 +1,14 @@
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\bin\Debug\net8.0\Day 10.exe
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\bin\Debug\net8.0\Day 10.deps.json
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\bin\Debug\net8.0\Day 10.runtimeconfig.json
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\bin\Debug\net8.0\Day 10.dll
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\bin\Debug\net8.0\Day 10.pdb
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.AssemblyInfoInputs.cache
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.AssemblyInfo.cs
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.csproj.CoreCompileInputs.cache
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.dll
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\refint\Day 10.dll
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.pdb
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\Day 10.genruntimeconfig.cache
+D:\Desktop\Pratice Material\Practice hands\phase 1\Day 10\Day 10\obj\Debug\net8.0\ref\Day 10.dll
